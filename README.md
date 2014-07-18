@@ -17,3 +17,5 @@ I had originally released Spiked as "freeware," not quite knowing that there
 was a whole open-source thing going on. While I still want to stay true
 to that intent, I've revised the license to be under the GPL-3.0; see
 the gpl-3.0.txt file. 
+
+![Spike](images/spike.gif)
